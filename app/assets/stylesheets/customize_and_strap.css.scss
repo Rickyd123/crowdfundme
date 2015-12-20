@@ -1,1 +1,12 @@
+$navbar-default-bg: #22A7F0;
+$navbar-default-link-color: white;
+$navbar-default-link-hover-color:#2980b9;
+$thumbnail-border: none;
 @import 'bootstrap';
+.navbarnavbar-fixed-bottom {
+	background: #000;
+	overflow: hidden;
+}
+.container-fluid {
+	text-align: center;
+}

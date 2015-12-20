@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ 
+/*footer height and color*/
+.cream {
+	background-color: #34495e;
+}

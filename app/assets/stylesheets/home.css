@@ -1,0 +1,28 @@
+.divbgcolor {background: #ecf0f1;}
+.border1 {border-top: 2px solid #bdc3c7; 
+padding: 10px;
+margin: auto;
+margin-top: 10px;
+width: 75%;}
+
+.divx {
+	height: 75px;
+	background-color: #2c3e50;
+}
+
+div, {
+  overflow:hidden;
+}
+
+.signupthumb {
+	margin: center;
+}
+.thumbnails {
+    text-align:center;
+}
+
+.thumbnails > li {
+    display: inline-block;
+    *display:inline; /* ie7 fix */
+    float: none; /* this is the part that makes it work */
+}
